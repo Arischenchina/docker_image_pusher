@@ -1,1 +1,2 @@
+shineszmc
 registry.cn-hangzhou.aliyuncs.com
