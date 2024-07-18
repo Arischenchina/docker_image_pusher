@@ -1,2 +1,2 @@
 shineszmc
-kasmweb/nginx:registry.cn-hangzhou.aliyuncs.com
+registry.cn-hangzhou.aliyuncs.com
